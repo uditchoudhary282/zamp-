@@ -1,0 +1,10 @@
+po_number,vendor_id,po_amount,status,po_date,description
+PO-4501,V001,120000.00,open,2026-10-01,5-ply corrugated boxes 2000 units
+PO-4502,V002,400000.00,open,2026-09-15,Cloud hosting and managed database Q4 billed monthly
+PO-4503,V003,85000.00,open,2026-10-20,Safety helmets gloves and reflective vests
+PO-4504,V003,210000.00,open,2026-10-05,Hydraulic pump spares and seals
+PO-4505,V001,75000.00,open,2026-10-12,Printed product labels 50000 units
+PO-4506,V004,45000.00,open,2026-10-25,Freight Mumbai to Pune full truck load
+PO-4400,V004,30000.00,closed,2026-06-01,Freight Nashik to Mumbai
+PO-4507,V004,25000.00,open,2026-11-01,Loading and unloading charges at warehouse
+PO-4508,V003,40000.00,open,2026-11-10,Industrial adhesive cartridges

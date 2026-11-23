@@ -1,0 +1,5 @@
+vendor_id,vendor_name,gstin,status,payment_terms_days,contact_email
+V001,Shree Ganesh Packaging Pvt Ltd,27AABCS1234F1ZR,active,30,accounts@shreeganeshpack.in
+V002,Nimbus Cloud Services LLP,29AAFFN5678K1ZJ,active,15,billing@nimbuscloud.in
+V003,Apex Industrial Supplies,07AAKPA9012L1ZQ,active,45,ar@apexindustrial.in
+V004,Kaveri Logistics Pvt Ltd,33AACCK3456M1ZE,active,30,finance@kaverilogistics.in
