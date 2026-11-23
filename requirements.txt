@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas
+pdfplumber
+pypdfium2
+rapidfuzz
+anthropic
+pytesseract
+reportlab
+pillow
